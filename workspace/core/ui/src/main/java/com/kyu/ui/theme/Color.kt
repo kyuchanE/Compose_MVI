@@ -1,4 +1,4 @@
-package com.kyu.example.ui.theme
+package com.kyu.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

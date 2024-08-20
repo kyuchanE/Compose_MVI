@@ -19,5 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Compose Application"
+rootProject.name = "My_Compose_Application"
+
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 include(":app")
+include(":core:data")
+include(":core:domain")
+include(":core:ui")
